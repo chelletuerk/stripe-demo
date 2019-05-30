@@ -1,0 +1,36 @@
+html {
+  background-color: #E5F3F2;
+  background-image: linear-gradient(#E5F3F2, #FFFFFF);
+  height: 100%;
+}
+
+.titles {
+  color: #6D6E71;
+  font-family: 'Special Elite', cursive;
+  font-size: 22px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.title:hover {
+  color: #00A79D;
+  text-decoration: underline;
+}
+
+.header {
+  text-align: center;
+}
+
+#head-logo {
+  color: #00A79D;
+  display: inline;
+font-family: 'Bowlby One SC', cursive;
+  font-size: 48px;
+}
+
+#lines-logo {
+  color: #6D6E71;
+  display: inline;
+  font-family: 'Bowlby One SC', cursive;
+  font-size: 50px;
+}
